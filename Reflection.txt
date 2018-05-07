@@ -1,0 +1,104 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+	
+	it help find typo
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    it help come back to working version of the work
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Google allows things to be save instantaniuously
+	Git allow to save project like milestone on  your work
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git is more programmation project oriented and they require multiple 
+	files to works. 
+	
+How can you use the commands git log and git diff to view the history of files?
+
+    I don know
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    IIf something break I can always go back to when it was working
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To be proefficient using git in large projects
+
+	
+How could having easy access to the entire history of a file make you 
+a more efficient programmer in the long term?
+
+It help me see the progress of the project as well as who have done changes
+
+What do you think are the pros and cons of manually choosing when to create a commit,
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros: allow to have locigal version of the project that are functionnal for the most part
+
+cons:  size may varie
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Git has been made for programming and google docs for documentaiton 
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log --stat git diff version 1 version 2
+
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+It make me more confident to makes change because I know that If I break something it can be fix with version control
+
+
+
+
+What happens when you initialize a repository? Why do you need to do it?
+
+create .git a structure of file history
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+allow more flexibility since you can go back in time
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+By saving what i'm currently working on with the stage and then commiting when a logical change has been made
+
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+adding unsure feature
+keeping an old verison and functional version of code
+
+
+How do the diagrams help you visualize the branch structure?
+
+it help me to see what where branch have been made and thus what are they parent
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+we go back to have one trunk
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
